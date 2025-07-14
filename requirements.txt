@@ -1,0 +1,7 @@
+python-telegram-bot==20.8
+python-dotenv==1.0.1
+SQLAlchemy==2.0.29
+apscheduler==3.10.4
+playwright==1.44.0
+
+
