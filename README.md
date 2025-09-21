@@ -136,7 +136,4 @@ Once the bot is deployed and running on Railway:
 -   **Resource Usage:** Playwright can be resource-intensive. Monitor your Railway resource usage (CPU, RAM) and scale up if necessary.
 -   **Error Handling:** The bot includes basic error handling, but for production, robust logging and alerting (e.g., sending error messages to an admin channel) are recommended.
 
----
-Developed by Manus AI Agent.
-
 
